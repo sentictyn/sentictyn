@@ -24,7 +24,7 @@ class Sentictyn {
         this.name = "Sentictyn",
         this.age = "20",
         this.sex = "he / him",
-        this.length = "1,85",
+        this.length = "1,80",
         this.job = "Sentictyn",
     };
 }
