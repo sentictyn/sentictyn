@@ -23,7 +23,7 @@ class Sentictyn {
     };
 }
 
-export default Srogzy
+export default Sentic
 ```   
 #
 
