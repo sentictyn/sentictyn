@@ -1,4 +1,9 @@
-#Merhaba i'm SenticTyn
+<div align="center">
+<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+Srogzy.;A+learning+new+things.">
+</div>
+# Hi i'm SenticTyn
+
+Hi guys,My name's Cem im 20 years old i live in Turkey. 
 
 <div align="center">
 <img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+Sentic.;A+learning+new+things.">
