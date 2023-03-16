@@ -1,13 +1,11 @@
 <div align="center">
-<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+Srogzy.;A+learning+new+things.">
+<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+SenticTyn.;A+learning+new+things.">
 </div>
 👋 Hello i'm SenticTyn.
 
 Hi guys, My name's Cem im 20 years old i live in Turkey. I love technology and innovative things, I have been interested in computer software for a long time and I love software development, on the one hand, I develop my own projects, on the other hand, I am constantly doing new things, learning and developing. I am a person who develops day by day, is self-confident, works and does not give up. I am happy where I am now and I dream of being in a much better place in the future, I am more successful every day. I will continue until I reach my dream goal. I am proud of everything I have achieved, I am not selfish, I do not want to be selfish, I want to please people in the future with what I do. Currently I know php, javascript, css, html, I will share some of my projects related to these languages here. On the other hand, I am improving myself in node.js and python coding. I will do much better projects in the future. I don't have a team, I do every project alone, but frankly, I would like to be part of a team. That's all for now in my career, I wish you all a good day...
 
-<div align="center">
-<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+Sentic.;A+learning+new+things.">
-</div>
+
 
  &nbsp; <br> ![counter](https://profile-counter.glitch.me/{sentic}/count.svg)
 
