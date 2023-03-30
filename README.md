@@ -25,12 +25,9 @@ Languages and Tools:
 <a href="https://www.mysql.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png"></a>
 <a href="https://www.postgresql.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png"></a>
 <a href="https://www.sqlite.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png"></a>
-
-<a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
-
- <a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
-
- <a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
+<a href="https://mariadb.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://openexpoeurope.com/wp-content/uploads/2018/05/mariadb.png"></a>
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"></a>
+<a href="#" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png"></a>
 
 <a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
 
