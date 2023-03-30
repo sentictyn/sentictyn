@@ -12,13 +12,13 @@ Profile Wiews:
 
 Languages and Tools:
 <p align="bottom-left">
-<a href="https://react.dev" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon.png"></a>
-<a href="https://reactnative.dev" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://camo.githubusercontent.com/9a45407f0a2a0c52f76b9458728049eca3ddb60ecec92a43f8cd2af93d253940/68747470733a2f2f7061676570726f2e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30332f72656163742d6e61746976652d6c6f676f2d333234783337352e706e67"></a>
-<a href="https://nodejs.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvL0sj14j-gDozbjZAQBqne-E84MMrctrOeCDpoVBHA&s"></a>
-<a href="https://www.javascript.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bn6V_-mmgRTg8wDqmrgNT9TVlgETEs-UbkSOIlCCZA&s"></a>
-<a href="https://www.w3schools.com/cs/index.php" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://www.fermimattei.edu.it/wp-content/uploads/2023/02/c.png"></a>
-<a href="https://www.java.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></a>
 <a href="https://www.php.net" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"></a>
+<a href="https://www.java.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></a>
+<a href="https://www.javascript.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bn6V_-mmgRTg8wDqmrgNT9TVlgETEs-UbkSOIlCCZA&s"></a>
+<a href="https://nodejs.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvL0sj14j-gDozbjZAQBqne-E84MMrctrOeCDpoVBHA&s"></a>
+<a href="https://react.dev" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
+<a href="https://reactnative.dev" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png"></a>
+<a href="https://www.w3schools.com/cs/index.php" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://www.fermimattei.edu.it/wp-content/uploads/2023/02/c.png"></a>
 <a href="https://laravel.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaLPfZ6_d6UGQmaqGy7sseaVfHD6jekzyAZxiA-5ulg&s"></a>
 <a href="https://www.python.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></a>
 <a href="https://www.w3schools.com/howto/howto_make_a_website.asp" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></a>
@@ -32,10 +32,6 @@ Languages and Tools:
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"></a>
 <a href="#" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://icon-library.com/images/json-icon/json-icon-17.jpg"></a>
 <a href="https://www.postman.com/" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"></a>
-
-
-  <a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
-
 
 #
 
