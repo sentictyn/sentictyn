@@ -16,23 +16,26 @@ Languages and Tools:
 <a href="https://reactnative.dev" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/61b9d11b503d567b02152b26_react%20native%20logo.png"></a>
 <a href="https://nodejs.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvL0sj14j-gDozbjZAQBqne-E84MMrctrOeCDpoVBHA&s"></a>
 <a href="https://www.javascript.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bn6V_-mmgRTg8wDqmrgNT9TVlgETEs-UbkSOIlCCZA&s"></a>
+<a href="https://www.w3schools.com/cs/index.php" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://www.fermimattei.edu.it/wp-content/uploads/2023/02/c.png"></a>
 <a href="https://www.java.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></a>
 <a href="https://www.php.net" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"></a>
 <a href="https://laravel.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaLPfZ6_d6UGQmaqGy7sseaVfHD6jekzyAZxiA-5ulg&s"></a>
 <a href="https://www.python.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></a>
 <a href="https://www.w3schools.com/howto/howto_make_a_website.asp" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></a>
 <a href="https://www.awwwards.com/websites/css3/" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></a>
+<a href="https://getbootstrap.com" target"blank_"><img width="40" height="40" style="max-width: 100%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></a>
+<a href="https://jquery.com" target"blank_"><img width="40" height="40" style="max-width: 100%;"src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png"></a>
 <a href="https://www.mysql.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png"></a>
 <a href="https://www.postgresql.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png"></a>
 <a href="https://www.sqlite.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png"></a>
 <a href="https://mariadb.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://openexpoeurope.com/wp-content/uploads/2018/05/mariadb.png"></a>
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"></a>
-<a href="#" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png"></a>
+<a href="#" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://icon-library.com/images/json-icon/json-icon-17.jpg"></a>
+<a href="https://www.postman.com/" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"></a>
 
-<a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
 
-<a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
- 
+  <a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
+
 
 #
 
