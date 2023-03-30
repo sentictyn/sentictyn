@@ -14,22 +14,27 @@ Languages and Tools:
 <p align="bottom-left">
 <a href="https://react.dev" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
 <a href="https://reactnative.dev" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/61b9d11b503d567b02152b26_react%20native%20logo.png"></a>
-<a href="https://nodejs.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png"></a>
- 
-<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png"></a>
+<a href="https://nodejs.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvL0sj14j-gDozbjZAQBqne-E84MMrctrOeCDpoVBHA&s"></a>
+<a href="https://www.javascript.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bn6V_-mmgRTg8wDqmrgNT9TVlgETEs-UbkSOIlCCZA&s"></a>
+<a href="https://www.java.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></a>
+<a href="https://www.php.net" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"></a>
+<a href="https://laravel.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaLPfZ6_d6UGQmaqGy7sseaVfHD6jekzyAZxiA-5ulg&s"></a>
+<a href="https://www.python.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></a>
+<a href="https://www.w3schools.com/howto/howto_make_a_website.asp" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></a>
+<a href="https://www.awwwards.com/websites/css3/" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></a>
+<a href="https://www.mysql.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png"></a>
+<a href="https://www.postgresql.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png"></a>
+<a href="https://www.sqlite.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png"></a>
 
- <a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
- 
-<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
+<a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
 
-<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
+ <a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
 
-<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
+ <a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
 
-<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
+<a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
 
-<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
-
+<a href="" target"blank_"><img width="40" height="40" style="max-width: 100%;" src=""></a>
  
 
 #
