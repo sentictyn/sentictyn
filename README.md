@@ -11,10 +11,26 @@ Profile Wiews:
 #
 
 Languages and Tools:
-<p align="center">
- <a href="https://discord.com/users/513053333011824651" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/sentictyn" target"blank_"><img width="15%" src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.instagram.com/sentictyn/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<p align="bottom-left">
+<a href="https://react.dev" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
+<a href="https://reactnative.dev" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/61b9d11b503d567b02152b26_react%20native%20logo.png"></a>
+<a href="https://nodejs.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png"></a>
+ 
+<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png"></a>
+
+ <a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
+ 
+<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
+
+<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
+
+<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
+
+<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
+
+<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
+
+ 
 
 #
 
