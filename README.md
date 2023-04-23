@@ -43,7 +43,7 @@ Languages and Tools:
 class Sentictyn {
     constructor(options) {
         this.name = "Sentictyn",
-        this.age = "20",
+        this.age = "17",
         this.sex = "he / him",
         this.length = "1,80",
         this.job = "Sentictyn",
