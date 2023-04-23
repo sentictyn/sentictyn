@@ -46,7 +46,7 @@ class Sentictyn {
         this.age = "17",
         this.sex = "he / him",
         this.length = "1,80",
-        this.job = "Sentictyn",
+        this.job = "Software Developing Expert",
     };
 }
 
