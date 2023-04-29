@@ -34,7 +34,6 @@ Languages and Tools:
 <a href="https://mariadb.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://openexpoeurope.com/wp-content/uploads/2018/05/mariadb.png"></a>
 <a href="https://www.postgresql.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png"></a>
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"></a>
-<a href="#" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://icon-library.com/images/json-icon/json-icon-17.jpg"></a>
 <a href="https://www.postman.com/" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"></a>
 
 #
