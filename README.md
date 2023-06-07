@@ -1,7 +1,7 @@
 <div align="center">
 <img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+SenticTyn.;A+learning+new+things.">
 </div>
-👋 Hello i'm **SenticTyn**.
+👋 Hello i'm **SenticTyn**
 
 {
    'Name': 'Cem',
