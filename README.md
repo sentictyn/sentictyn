@@ -1,3 +1,4 @@
+
 <div align="center">
 <img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+SenticTyn.;A+learning+new+things.">
 </div>
@@ -8,7 +9,7 @@
    'Name': '**Cem**',
    'Yo': '**17**',
    'Country': '**NL**',
-} Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **React**, **Python**, **ASP.NET**, **C#**, **Html** , **Css**, **SCss**, **jQuery** , **BootsTrap** , 
+} Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **React**, **Python**, **.NET Core**, **ASP.NET**, **C#**, **Html** , **Css**, **SCss**, **jQuery** , **BootsTrap** , 
 
 Profile Wiews:
  &nbsp; <br> ![counter](https://profile-counter.glitch.me/{sentic}/count.svg)
@@ -20,26 +21,29 @@ Connect with me:
 <a href="https://github.com/sentictyn" target"blank_"><img width="44" height="44" style="max-width: 100%; "src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png"></a>
 
 
-Languages and Tools:
-<p align="bottom-left">
-<a href="https://www.php.net" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"></a>
-<a href="https://www.java.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></a>
-<a href="https://www.javascript.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bn6V_-mmgRTg8wDqmrgNT9TVlgETEs-UbkSOIlCCZA&s"></a>
-<a href="https://nodejs.org" target"blank_"><img width="34" height="40" style="max-width: 100%;" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"></a>
-<a href="https://react.dev" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
-<a href="https://reactnative.dev" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png"></a>
-<a href="https://www.w3schools.com/cs/index.php" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://www.fermimattei.edu.it/wp-content/uploads/2023/02/c.png"></a>
-<a href="https://laravel.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaLPfZ6_d6UGQmaqGy7sseaVfHD6jekzyAZxiA-5ulg&s"></a>
-<a href="https://www.python.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></a>
-<a href="https://www.w3schools.com/howto/howto_make_a_website.asp" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></a>
-<a href="https://www.awwwards.com/websites/css3/" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></a>
-<a href="https://getbootstrap.com" target"blank_"><img width="40" height="40" style="max-width: 100%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></a>
-<a href="https://jquery.com" target"blank_"><img width="40" height="40" style="max-width: 100%;"src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png"></a>
-<a href="https://www.mysql.com" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png"></a>
-<a href="https://mariadb.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://openexpoeurope.com/wp-content/uploads/2018/05/mariadb.png"></a>
-<a href="https://www.postgresql.org" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png"></a>
-<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"></a>
-<a href="https://www.postman.com/" target"blank_"><img width="40" height="40" style="max-width: 100%;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"></a>
+### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.JS" alt="Node.JS" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/800px-.NET_Core_Logo.svg.png" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp; 
+<img src="https://glisteneducation.com/wp-content/uploads/2020/06/net-logo.png" title="ASP.NET" alt="ASP.NET" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BootsTrap" alt="BootsTrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png"  title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png"  title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
+<img src="https://openexpoeurope.com/wp-content/uploads/2018/05/mariadb.png" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" title="PostreSQL" alt="PostreSQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;
+</div>
 
 #
 
