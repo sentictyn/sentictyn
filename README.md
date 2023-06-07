@@ -1,13 +1,14 @@
 <div align="center">
 <img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+SenticTyn.;A+learning+new+things.">
 </div>
+
 👋 Hello i'm **SenticTyn**
 
 {
-   'Name': 'Cem',
-   'Yo': '17',
-   'Country': 'Nl',
-} Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **React**, **Python**, **ASP.NET**, **C#**,**Html** , **Css**, **SCss**,**jQuery** , **BootsTrap** , 
+   'Name': '**Cem**',
+   'Yo': '**17**',
+   'Country': '**NL**',
+} Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **React**, **Python**, **ASP.NET**, **C#**, **Html** , **Css**, **SCss**, **jQuery** , **BootsTrap** , 
 
 Profile Wiews:
  &nbsp; <br> ![counter](https://profile-counter.glitch.me/{sentic}/count.svg)
