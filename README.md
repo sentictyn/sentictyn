@@ -15,16 +15,13 @@ Profile Wiews:
  &nbsp; <br> ![counter](https://profile-counter.glitch.me/{sentic}/count.svg)
 
 ### :zap: Connect with me :
-<p align="bottom-left">
-<a href="https://www.instagram.com/sentictyn/" target"blank_"><img width="40" height="40" style="max-width: 100%; "src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
-<a href="https://discord.com/users/513053333011824651" target"blank_"><img width="40" height="40" style="max-width: 100%; "src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"></a>
-<a href="https://github.com/sentictyn" target"blank_"><img width="44" height="44" style="max-width: 100%; "src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png"></a>
-
+[![My Instagram](https://skills.thijs.gg/icons?i=instagram&theme=light)](https://www.instagram.com/sentictyn/)
+[![My Discord](https://skills.thijs.gg/icons?i=discord&theme=light)](https://discord.com/users/513053333011824651)
+[![My Github](https://skills.thijs.gg/icons?i=github&theme=light)](https://github.com/sentictyn)
 
 
 ### :hammer_and_wrench: Languages and Tools :
 [![My Skills](https://skills.thijs.gg/icons?i=php,laravel,java,js,nodejs,react,python,dotnet,c,cs,html,css,sass,bootstrap,jquery,mysql,postgres,mongodb&theme=light)](https://github.com/sentictyn)
-
 #
 
  ``` 
