@@ -38,11 +38,11 @@ class Sentictyn {
 export default Sentic
 ```   
 #
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/513053333011824651
-                            )](https://discord.com/users/513053333011824651)
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![Discord Presence](https://lanyard.cnrad.dev/api/513053333011824651)](https://discord.com/users/513053333011824651)
+
 
 
 
