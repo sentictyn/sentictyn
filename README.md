@@ -42,6 +42,7 @@ export default Sentic
 [![Discord Presence](https://lanyard.cnrad.dev/api/513053333011824651
                             )](https://discord.com/users/513053333011824651)
   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
