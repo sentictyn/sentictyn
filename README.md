@@ -11,7 +11,7 @@
    'Country': 'NL',
 } 
 ``` 
-#### Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **React**, **Python**, **.NET Core**, **ASP.NET**, **C**, **C#**, **Html** , **Css**, **Sass**, **jQuery** , **BootsTrap** ...
+### - Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **React**, **Python**, **.NET Core**, **ASP.NET**, **C**, **C#**, **Html** , **Css**, **Sass**, **jQuery** , **BootsTrap** ...
 
 ### Profile Wiews &nbsp; <br> ![counter](https://profile-counter.glitch.me/{sentic}/count.svg)
 
