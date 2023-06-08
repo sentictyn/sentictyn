@@ -41,5 +41,5 @@ export default Sentic
 ```   
 #
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sentictyn&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Discord Presence](https://lanyard.cnrad.dev/api/513053333011824651)](https://discord.com/users/513053333011824651) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sentictyn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Discord Presence](https://lanyard.cnrad.dev/api/513053333011824651)](https://discord.com/users/513053333011824651) 
