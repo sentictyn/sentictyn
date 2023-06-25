@@ -22,7 +22,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,java,js,nodejs,react,express,nuxtjs,materialui,python,selenium,flask,qt,fastapi,dotnet,c,cs,ruby,html,css,sass,styledcomponents,bash,bootstrap,jquery,mysql,postgres,mongodb,sqlite,azure,redis,redux,git,regex,powershell,md,postman,cloudflare,wordpress,codepen,visualstudio,vscode,ps,autocad&theme=light)](https://github.com/sentictyn)
+[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,java,js,nodejs,react,express,nuxtjs,materialui,python,selenium,flask,qt,fastapi,dotnet,c,cs,ruby,html,css,sass,styledcomponents,bash,bootstrap,jquery,mysql,postgres,mongodb,sqlite,azure,redis,redux,git,regex,powershell,md,postman,stackoverflow,cloudflare,wordpress,codepen,visualstudio,vscode,ps,autocad&theme=light)](https://github.com/sentictyn)
 #
 
  ``` 
