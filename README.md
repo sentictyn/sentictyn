@@ -11,7 +11,7 @@
    'Country': 'NL',
 } 
 ``` 
-### - Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **Express.JS**, **Ejs.JS**, **Discord.JS**, **React**, **Python**, **Selenium**, **Flask**, **.NET Core**, **ASP.NET**, **C**, **C#**, **Ruby**, **Html** , **Css**, **Sass**, **Bash**, **jQuery** , **BootsTrap** and **Abode PS**...
+### - Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **Express**, **Ejs**, **Discord.JS**, **React**, **Python**, **Selenium**, **Flask**, **.NET Core**, **ASP.NET**, **C**, **C#**, **Ruby**, **Html** , **Css**, **Sass**, **Bash**, **jQuery** , **BootsTrap** and **Abode PS**...
 
 ### Profile Wiews &nbsp; <br> ![counter](https://profile-counter.glitch.me/{sentic}/count.svg)
 
