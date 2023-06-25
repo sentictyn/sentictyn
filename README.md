@@ -11,7 +11,7 @@
    'Country': 'NL',
 } 
 ``` 
-### - Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **Express.JS**, **EJS.JS**, **Discord.JS**, **React**, **Python**, **.NET Core**, **ASP.NET**, **C**, **C#**, **Ruby**, **Html** , **Css**, **Sass**, **Bash**, **jQuery** , **BootsTrap** and **Abode PS**...
+### - Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **Express.JS**, **EJS.JS**, **Discord.JS**, **React**, **Python**, **Selenium**, **.NET Core**, **ASP.NET**, **C**, **C#**, **Ruby**, **Html** , **Css**, **Sass**, **Bash**, **jQuery** , **BootsTrap** and **Abode PS**...
 
 ### Profile Wiews &nbsp; <br> ![counter](https://profile-counter.glitch.me/{sentic}/count.svg)
 
@@ -22,7 +22,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,java,js,nodejs,react,express,python,dotnet,c,cs,ruby,html,css,sass,bash,bootstrap,jquery,mysql,postgres,mongodb,sqlite,cloudflare,ps&theme=light)](https://github.com/sentictyn)
+[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,java,js,nodejs,react,express,python,selenium,dotnet,c,cs,ruby,html,css,sass,bash,bootstrap,jquery,mysql,postgres,mongodb,sqlite,cloudflare,ps&theme=light)](https://github.com/sentictyn)
 #
 
  ``` 
