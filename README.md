@@ -11,7 +11,7 @@
    'Country': 'NL',
 } 
 ``` 
-### - Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **React**, **Python**, **.NET Core**, **ASP.NET**, **C**, **C#**, **Html** , **Css**, **Sass**, **jQuery** , **BootsTrap** ...
+### - Im Developer **Php**, **Laravel**, **Java**, **JavaScript**, **Node.JS**, **React**, **Python**, **.NET Core**, **ASP.NET**, **C**, **C#**, **Ruby**, **Html** , **Css**, **Sass**, **jQuery** , **BootsTrap** ...
 
 ### Profile Wiews &nbsp; <br> ![counter](https://profile-counter.glitch.me/{sentic}/count.svg)
 
@@ -22,7 +22,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,java,js,nodejs,react,python,dotnet,c,cs,html,css,sass,bootstrap,jquery,mysql,postgres,mongodb&theme=light)](https://github.com/sentictyn)
+[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,java,js,nodejs,react,python,dotnet,c,cs,ruby,html,css,sass,bootstrap,jquery,mysql,postgres,mongodb&theme=light)](https://github.com/sentictyn)
 #
 
  ``` 
